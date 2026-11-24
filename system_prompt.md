@@ -1,0 +1,1 @@
+Generate a 1024x1024 world news image summarizing 23 November 2026 for make.fun bounty news-image-20261123. The image must be readable at 300px wide. Include a header with the date and six story cards with emojis, captions, and a footer with sources.
